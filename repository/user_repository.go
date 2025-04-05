@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 	"fmt"
-	"go-api/cmd/model"
+	"go-api/model"
 )
 
 // Interface que será usada no usecase

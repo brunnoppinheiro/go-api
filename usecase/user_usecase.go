@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"go-api/cmd/model"
-	"go-api/cmd/repository"
+	"go-api/model"
+	"go-api/repository"
 )
 
 type UserUsecase struct {
